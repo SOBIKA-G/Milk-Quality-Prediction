@@ -1,1 +1,0 @@
-This is a Milk quality prediction model.
